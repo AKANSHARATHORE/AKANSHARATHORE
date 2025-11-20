@@ -134,6 +134,8 @@ With strong expertise in **Spring Boot, Hibernate, REST APIs, and MySQL**, I foc
 
 Email: **akansharathore252@gmail.com**  
 Phone: **+91 8279619928**
+LinkedIn: **[www.linkedin.com/in/akansha-rathore](https://www.linkedin.com/in/akansha-rathore)**  
+
 
 ---
 
