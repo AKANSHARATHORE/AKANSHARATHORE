@@ -96,12 +96,7 @@ With strong expertise in **Spring Boot, Hibernate, REST APIs, and MySQL**, I foc
 
 ---
 
-## Education
 
-- **B.Tech (CSE)** — Dr. A.P.J. Abdul Kalam Technical University (2020–2023)  
-- **Diploma in Electrical Engineering** — BTEUP (2017–2020)  
-
----
 
 ## Contact
 
