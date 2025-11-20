@@ -42,33 +42,6 @@ With strong expertise in **Spring Boot, Hibernate, REST APIs, and MySQL**, I foc
 
 ---
 
-## Professional Experience
-
-### Software Engineer — Doritech Consultancy and Software Solutions, Noida  
-**July 2023 – Present**
-
-**Key Responsibilities:**
-- Designed and maintained scalable Java-based applications using Spring Boot and Hibernate.  
-- Developed efficient RESTful APIs with proper versioning, JSON handling, and HTTP method usage.  
-- Optimized performance using SQL and NoSQL databases with well-structured data modeling.  
-- Utilized Stream API and lambda expressions to enhance code readability and performance.  
-- Used Swagger and Postman for API testing, debugging, and documentation.  
-- Deployed and configured Java applications on Tomcat servers.  
-- Collaborated directly with clients for requirement gathering, updates, and project alignment.  
-
----
-
-### Java Developer Intern — SSDN Technologies  
-**June 2022 – August 2022**
-
-**Responsibilities & Learnings:**
-- Gained hands-on experience in Core & Advanced Java.  
-- Worked on multiple Java projects using OOP, data structures, and algorithms.  
-- Explored advanced Java topics like multithreading, collections, and design patterns.  
-- Improved collaborative skills by working closely with experienced developers.  
-- Strengthened communication, problem-solving, and teamwork abilities.  
-
----
 
 ## Projects
 
